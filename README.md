@@ -1,4 +1,4 @@
-# Real-time Learning AI Chatbot
+# Real-time Learning LLM (Chatbot)
 
 This document outlines the architecture, implementation details, and considerations for building an AI Chatbot that can learn in real-time by searching the web, gathering information on the topic, and then converting the data to a format that it can use to train itself as a model.
 
